@@ -12,12 +12,12 @@ const server = http.createServer((req, res) => {
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Hello Node</title>
+        <title>Alberta Travel Site</title>
     </head>
     <body>
-        <h1>Hello from Node.js!</h1>
-        <p>Welcome to the Node.js server.</p>
-        <img src="https://via.placeholder.com/300" alt="Placeholder Image" style="max-width:100%; height:auto;">
+        <h1>Hello from Alberta Travels!</h1>
+        <p>Welcome to the Alberta Travel site</p>
+        <img src="banff.jpg" alt="Placeholder Image" style="max-width:100%; height:auto;">
     </body>
     </html>
   `;
