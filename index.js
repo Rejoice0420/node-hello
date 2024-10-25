@@ -17,7 +17,7 @@ const server = http.createServer((req, res) => {
     <body>
         <h1>Hello from Alberta Travels!</h1>
         <p>Welcome to the Alberta Travel site</p>
-        <img src="banff.jpg" alt="Placeholder Image" style="max-width:100%; height:auto;">
+        <img src="/banff.jpg" alt="Placeholder Image" style="max-width:100%; height:auto;">
     </body>
     </html>
   `;
